@@ -20,37 +20,37 @@ function App() {
 
   const items = [
     {
-      title: "Tyler Durden",
+      title: "Alluring ",
       image: img1,
       className: "absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "The Narrator",
+      title: "Exquisite ",
       image: img2,
       className: "absolute top-[-5%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "Iceland",
+      title: "Charming ",
       image: img3,
       className: "absolute top-[-60%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "Japan",
+      title: "Radiant ",
       image: img4,
       className: "absolute top-[-110%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "Norway",
+      title: "Stunning ",
       image: img5,
       className: "absolute top-[-165%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "New Zealand",
+      title: "Elegant ",
       image: img6,
       className: "absolute top-[-220%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
     {
-      title: "Canada",
+      title: "Gorgeous",
       image: img7,
       className: "absolute top-[-275%] left-[50%] -translate-x-1/2 -translate-y-1/2",
     },
