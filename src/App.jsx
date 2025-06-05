@@ -66,7 +66,7 @@ function App() {
             className="absolute top-0 inset-0 flex items-center justify-center text-2xl font-black text-neutral-950 pointer-events-none"
             style={{ opacity: 0.15, zIndex: 0 }}
           >
-            Happy Birthday To You.<br/> Kumbhakarna💗<br/>Ik thoda late but kaam!!!
+            Happy Birthday To You.<br/> Kumbhakarna💗<br/>Ik thoda late coz kaam!!!
           </p>
         )}
         <div className="relative z-10 w-full h-full">
